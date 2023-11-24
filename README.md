@@ -1,4 +1,4 @@
-# React + Vite + TailwindCSS + Preline UI
+# React + Vite + TailwindCSS + Preline UI + React Router V6
 
 ## Install
 
